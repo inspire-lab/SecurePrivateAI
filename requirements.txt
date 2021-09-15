@@ -1,0 +1,11 @@
+ipython
+jupyter
+notebook
+adversarial-robustness-toolbox
+keras
+torch
+torchvision
+numpy
+matplotlib
+scikit-learn
+tensorflow
